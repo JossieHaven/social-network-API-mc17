@@ -42,7 +42,7 @@ SO THAT my website can handle large amounts of unstructured data
 
 
 ## Video Tutorial
-[Video Tutorial]()
+[Video Tutorial](https://drive.google.com/file/d/1MlrbPx45bfRkT5fbFGrlIKRymn0bTlWi/view?usp=sharing)
 
 ## GitHub Repository
 [Github-Repo](https://github.com/JossieHaven/social-network-API-mc17)
